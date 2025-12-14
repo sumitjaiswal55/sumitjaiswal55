@@ -22,7 +22,7 @@
 - 🎓 Currently studying at **GHRIET, Nagpur**.
 - 💡 Exploring the depths of the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 - 📌 Open to **collaborations** on exciting projects & available for **freelance opportunities**.
-- 📫 How to reach me: **sumitjaiswal.dev@gmail.com** (Aap yahan apni email daal sakte hain)
+- 📫 How to reach me: **sumitjaiswal7055@gmail.com** (Aap yahan apni email daal sakte hain)
 
 ---
 
