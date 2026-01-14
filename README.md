@@ -1,100 +1,73 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Hi there, I'm Sumit Jaiswal 👋
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/sumitjaiswal55/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/sumitjaiswal55" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Sumit%20Jaiswal&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+  <h3> 👨‍💻 Full-Stack Developer | MERN Specialist | Tech Enthusiast </h3>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/sumitjaiswal55" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:sumitjaiswal7055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://sumitjaiswal.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me:
-
-- 🚀 Aspiring **Full-Stack Developer** with a passion for **Web Development & AI**.
-- 🎓 Currently studying at **GHRIET, Nagpur**.
-- 💡 Exploring the depths of the **MERN Stack** (MongoDB, Express.js, React, Node.js).
-- 📌 Open to **collaborations** on exciting projects & available for **freelance opportunities**.
-- 📫 How to reach me: **sumitjaiswal7055@gmail.com**
+### 🚀 About Me
+- 🎓 **BCA 3rd Year** at **GHRIET, Nagpur**.
+- 🛠️ Building **AgriBridge** & **Crimeta** (Solving real-world problems).
+- 🎯 Goal: Landing a High-Growth Developer Role in 2026.
+- ⚡ Fun Fact: I believe in **Product Leverage** – building things that work while I sleep.
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ My Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Frontend</b><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+    </td>
+    <td align="center" width="33%">
+      <b>Backend</b><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+    </td>
+    <td align="center" width="33%">
+      <b>Tools & Others</b><br />
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My Coding Activity
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitjaiswal55&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjaiswal55&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitjaiswal55&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats:
+### 🏆 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sumitjaiswal55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sumit's GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjaiswal55&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Langs" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=sumitjaiswal55&theme=dracula&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+| Project | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **AgriBridge** | MERN + React Native | [View Repo](https://github.com/sumitjaiswal55/AgriBridge) |
+| **InnerBhakti** | React + Node.js | [View Repo](https://github.com/sumitjaiswal55/InnerBhakti) |
+| **Wonderlust** | Node.js + MongoDB | [View Repo](https://github.com/sumitjaiswal55/Wonderlust-Hotel-Listing-Web-App) |
 
 ---
 
-### 🚀 My Featured Projects:
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/sumitjaiswal55/Wonderlust-Hotel-Listing-Web-App" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjaiswal55&repo=Wonderlust-Hotel-Listing-Web-App&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/sumitjaiswal55/swiggy-UI-clone" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjaiswal55&repo=swiggy-UI-clone&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/sumitjaiswal55/InnerBhakti" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjaiswal55&repo=InnerBhakti&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      </td>
-  </tr>
-</table>
-
----
-
-
-## ⚡ Little personality footer
-> _Hustle, build, and stay unstoppable._  
-> — Sumit
-
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitjaiswal55&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sumitjaiswal55&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
