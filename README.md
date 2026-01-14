@@ -1,73 +1,51 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Sumit%20Jaiswal&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-  <h3> 👨‍💻 Full-Stack Developer | MERN Specialist | Tech Enthusiast </h3>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/sumitjaiswal55" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:sumitjaiswal7055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://sumitjaiswal.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  </p>
-</div>
-
----
-
-### 🚀 About Me
-- 🎓 **BCA 3rd Year** at **GHRIET, Nagpur**.
-- 🛠️ Building **AgriBridge** & **Crimeta** (Solving real-world problems).
-- 🎯 Goal: Landing a High-Growth Developer Role in 2026.
-- ⚡ Fun Fact: I believe in **Product Leverage** – building things that work while I sleep.
-
----
-
-### 🛠️ My Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <b>Frontend</b><br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-    </td>
-    <td align="center" width="33%">
-      <b>Backend</b><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
-    </td>
-    <td align="center" width="33%">
-      <b>Tools & Others</b><br />
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 My Coding Activity
-
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitjaiswal55&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjaiswal55&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00d2ff&height=200&section=header&text=SUMIT%20JAISWAL&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitjaiswal55&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Building+AgriBridge;BCA+Final+Year+Student" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🏆 Featured Projects
-
-| Project | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **AgriBridge** | MERN + React Native | [View Repo](https://github.com/sumitjaiswal55/AgriBridge) |
-| **InnerBhakti** | React + Node.js | [View Repo](https://github.com/sumitjaiswal55/InnerBhakti) |
-| **Wonderlust** | Node.js + MongoDB | [View Repo](https://github.com/sumitjaiswal55/Wonderlust-Hotel-Listing-Web-App) |
+### ⚡ Quick Peek
+- 🔭 **Working on:** [AgriBridge](https://agribridge.sumitjaiswal.in) – Modernizing Agriculture.
+- 🚀 **Past Project:** [Crimeta](https://github.com/sumitjaiswal55/Crimeta) – Real-time crime reporting.
+- 🎓 **Education:** Final Year BCA (GHRIET, Nagpur).
+- 💬 **Ask me about:** React, Node.js, and why I love Product Leverage.
 
 ---
 
+### 🛠️ My Digital Toolbox
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,vscode,figma,postman&perline=7" />
+</div>
+
+---
+
+### 📈 GitHub Statistics
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitjaiswal55&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjaiswal55&layout=compact&theme=transparent&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&hide_border=true" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitjaiswal55&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitjaiswal55&theme=transparent&fire=00d2ff&ring=00d2ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/sumitjaiswal55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitjaiswal55" height="30" width="40" /></a>
+<a href="https://sumitjaiswal.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="sumitjaiswal.in" height="30" width="40" /></a>
+<a href="mailto:sumitjaiswal7055@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sumitjaiswal7055" height="30" width="40" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/sumitjaiswal55/sumitjaiswal55/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+<p align="center">
+  <i>"Don't wait for opportunity. Create it."</i>
 </p>
