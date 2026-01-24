@@ -43,9 +43,6 @@ I'm a **BCA Final Year** student at **GHRIET, Nagpur**, obsessed with turning id
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjaiswal55&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00f2fe&text_color=ffffff&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitjaiswal55&theme=tokyonight&bg_color=0D1117&fire=00f2fe&ring=00f2fe&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
-</p>
 
 ---
 
