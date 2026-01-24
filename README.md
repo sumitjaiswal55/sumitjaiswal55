@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=distribute&color=00f2fe&height=200&section=header&text=SUMIT%20JAISWAL&fontSize=80&fontColor=ffffff&animation=twinkling" width="100%"/>
-
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Building+Scalable+Products;Aspiring+Software+Engineer" alt="Typing SVG" />
   </p>
