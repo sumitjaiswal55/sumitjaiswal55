@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Building+Scalable+Products;Aspiring+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Full-Stack+%26+GenAI+Developer;MERN+Stack+%7C+Python+%7C+RAG+Pipelines;Building+Autonomous+AI+Workflows" alt="Typing SVG" />
   </p>
 
   <a href="https://linkedin.com/in/sumitjaiswal55"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,27 +11,28 @@
 ---
 
 ### ⚡ About Me
-I'm a **BCA Final Year** student at **GHRIET, Nagpur**, obsessed with turning ideas into code. I don't just build apps; I build solutions like **AgriBridge** to solve real-world problems.
+I'm an **MCA Candidate** (with a BCA background), building at the intersection of robust full-stack engineering and intelligent **Generative AI / Agentic** workflows.
 
-- 🔭 **Focus:** Full-Stack Development (MERN) & Scalable Systems.
-- 🌱 **Learning:** React Native for mobile leverage.
-- 💬 **Ask me about:** JavaScript, DSA, or Stock Market Trading.
+- 🔭 **Current Focus:** Full-Stack Web Development, RAG Architectures, and Autonomous Agentic AI.
+- 🧠 **Daily Grind:** Data Structures & Algorithms, System Optimization, and Core CS Fundamentals.
+- 💬 **Ask me about:** React, Node.js, Python, RAG pipelines, or Stock Market Trading.
 
 ---
 
 ### 💻 Tech Stack & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,vercel,postman,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,tailwind,docker,git,github,vscode,vercel,postman&perline=8" />
 </div>
 
 ---
 
 ### 🛠️ Featured Work
-| Project | Tech Stack | Live Link |
+| Project | Highlights & Stack | Source / Demo |
 | :--- | :--- | :--- |
-| **🌾 AgriBridge** | MERN + Vercel | [Visit Site](https://agribridge.sumitjaiswal.in) |
-| **🛡️ Crimeta** | Node.js + MongoDB | [Repo](https://github.com/sumitjaiswal55/Crimeta) |
-| **🏨 Wonderlust** | EJS + Express | [Live](https://github.com/sumitjaiswal55/Wonderlust-Hotel-Listing-Web-App) |
+| **🤖 Contextual RAG Engine** | Retrieval-Augmented Generation pipeline with Hybrid Search & Citations (Python, Vector DB) | [Repo](https://github.com/sumitjaiswal55) |
+| **🌾 AgriBridge** | Full-stack platform connecting farmers directly to consumers (MERN + Vercel) | [Visit Site](https://agribridge.sumitjaiswal.in) |
+| **🏨 Wanderlust** | Travel rental accommodation platform with session auth, CRUD reviews & Cloudinary | [Repo](https://github.com/sumitjaiswal55/Wonderlust-Hotel-Listing-Web-App) |
+| **🛡️ Crimeta** | Incident tracking and reporting backend system | [Repo](https://github.com/sumitjaiswal55/Crimeta) |
 
 ---
 
@@ -41,11 +42,10 @@ I'm a **BCA Final Year** student at **GHRIET, Nagpur**, obsessed with turning id
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjaiswal55&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00f2fe&text_color=ffffff&hide_border=true" />
 </p>
 
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sumitjaiswal55&label=Profile%20Views&color=00f2fe&style=flat-square" />
   <br>
-  <i>Hustle, Build, Repeat. 🚀</i>
+  <i>Build, Automate, Scale. 🚀</i>
 </div>
